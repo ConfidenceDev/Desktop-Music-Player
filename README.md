@@ -6,7 +6,7 @@
 # ScreenShots
 <p float="left">
 <img src="https://github.com/Dev-Geek/Desktop-Music-Player/blob/main/assets/player1.PNG" width="200">
-<img src="https://github.com/Dev-Geek/Desktop-Music-Player/blob/main/assets/player1.PNG" width="200">
+<img src="https://github.com/Dev-Geek/Desktop-Music-Player/blob/main/assets/player2.PNG" width="200">
 </p>
 
 # How to Use
